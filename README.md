@@ -28,3 +28,17 @@ This access token is how you use your account via the code. (You can also use a 
 -Copy the value behind token Authorization (Token <copy this code>) Token tutorial
 
 ![68747470733a2f2f737075642e6a61696d797475696e2e636f6d2f6d656469612f70726f6a65637453686f77636173652f4341495f746f6b656e5f7475746f7269616c2e706e67](https://github.com/user-attachments/assets/fb056a2d-1e15-4d83-ac5b-f3de7fb36463)
+1. Hubungkan Bot ke WhatsApp
+
+Jalankan bot dengan perintah:
+node <nama_file_bot>.js
+
+Scan QR Code yang muncul di terminal menggunakan aplikasi WhatsApp Anda.
+
+2. Mulai Chat: Ketik ,char untuk mulai ngobrol Bot bakal nyalain sesi chat khusus buat kamu!
+
+3. Ngobrol: Setelah sesi aktif, langsung ketik apa aja tanpa perlu tanda koma. Bakal jawab semua pertanyaan atau curhatanmu dengan gaya khasnya!
+
+4. Akhiri Chat: Ketik ,bye kalau udah selesai ngobrol. Bot bakal tutup sesi dengan ucapan perpisahan.
+
+Bot: Chat Character.AI diakhiri.
